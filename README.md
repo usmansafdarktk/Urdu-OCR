@@ -27,11 +27,11 @@ The Urdu OCR project aims to develop a robust system for recognizing Urdu charac
 ## Preview
 The following are two examples of images generated:
 
-![Screenshot 2024-10-27 143322](https://github.com/user-attachments/assets/cbfa269e-0d79-4ce5-993b-a867b22193d2)
+![Screenshot 2024-10-27 143322](https://github.com/user-attachments/assets/bf89e89a-8e0e-4f04-801f-bd73114fb2b4)
 
 <br>
 
-![Screenshot 2024-10-27 143414](https://github.com/user-attachments/assets/da924bd2-4740-48bc-85cd-bdb17a28539e)
+![Screenshot 2024-10-27 143414](https://github.com/user-attachments/assets/c30e191f-a0b2-4e63-8b92-385a0f91c487)
 
 
 ## Deep Learning Models
